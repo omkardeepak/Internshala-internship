@@ -1,2 +1,2 @@
 ﻿# Internarea_code
-Internshala clone made during my internship.
+Internshala clone which I built during my internship.
